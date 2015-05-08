@@ -29,7 +29,7 @@
 
 在 Dart 编辑器中，使用 **File > Open Existing Folder...** 来打开 *one-hour-codelab* 下面的 *darrrt* 文件夹。
 
-![step1](images/learn-dart-in-minutes-set-up-pic1.png)
+![pic1](images/learn-dart-in-minutes-set-up-pic1.png)
 
 > 提示：如果你在文件名左边看到红色的叉叉或者 *packages* 目录丢失，说明软件包没有安装好。右击 *pubspec.yaml* 并选择 **Pub Gut**。
 
