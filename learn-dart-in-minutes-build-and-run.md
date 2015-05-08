@@ -58,6 +58,8 @@ Built 6 files to "build".
 
 在你工作的 *1-blankbadge* 目录下，展开 *build* 目录，然后展开 *web* 目录。
 
+![pic2](images/learn-dart-in-minutes-build-and-run-pic2.png)
+
 ### 关键信息
 
 * *build/web* 包含了 App 单独部署所需的所有文件。
