@@ -20,7 +20,7 @@ dependencies:
 * 目录中的 *pubspec.yaml* 文件标识了这个目录和其中的内容是一个应用。
 * *pubspec.yaml* 提供了应用的元信息，例如它的名字。
 * *pubspec.yaml* 同时也列出了应用所依赖的库。 这个 App 需要的 *browser* 库被托管在了 *pub.dartlang.org* 上面，同时还托管了许多其它的库。
-* *any* 选择符合你SDK的最新的软件包。
+* *any* 代表选择符合你SDK的最新的软件包。
 
 ## 查看包目录
 
@@ -51,7 +51,7 @@ Built 6 files to "build".
 ### 关键信息
 
 * *pub build* 命令创建了一个 *build* 目录
-* 你可以选择 **Pub Build - Minified** 或者 **Pub Build - Debug**。 当构建一个最精简的 JavaScript 时，所有空格和无关的字符都会被移动，创建一个更紧凑的文件，但他的可读性更低。
+* 你可以选择 **Pub Build - Minified** 或者 **Pub Build - Debug**。 当构建一个最精简的 JavaScript 时，所有空格和无关的字符都会被移动，创建一个更紧凑的文件，但它的可读性更低。
 * *build* 目录包含了部署项目所需要的一切东西。
 
 ## 查看 *build* 目录
@@ -63,7 +63,7 @@ Built 6 files to "build".
 ### 关键信息
 
 * *build/web* 包含了 App 单独部署所需的所有文件。
-* *piratebadge.dart.js* 是一个精简的 JavaScript文件。 当部署时，这个文件会运行在浏览器中。
+* *piratebadge.dart.js* 是一个精简的 JavaScript 文件。 当部署时，这个文件会运行在浏览器中。
 
 ## 运行 App
 
