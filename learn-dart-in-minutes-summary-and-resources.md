@@ -6,13 +6,13 @@
 
 #### Dart 语言
 
-[A Tour of the Dart Language](https://www.dartlang.org/docs/dart-up-and-running/ch02.html) 介绍了如何使用主要的 Dart 基本特性，从变量和运算符到类和库。这个代码实验室介绍了 Dart 的以下特性，这些特性在语言概览中都有详细介绍。
+[A Tour of the Dart Language](https://www.dartlang.org/docs/dart-up-and-running/ch02.html) 介绍了如何使用 Dart 基本特性，从变量和运算符到类和库。这个代码实验室介绍了 Dart 的以下特性，这些特性在语言概览中都有详细介绍。
 
 * 字符串插值 (```'$_firstName the $_appellation'```)
 * 级联运算符 (```..```)
 * 胖箭头 (```=>```) 函数语法
 * 三目运算符 (```?:```) 
-* 命名构造函数 （```PirateName.fromJSON(...)```）
+* 命名构造函数 (```PirateName.fromJSON(...)```(
 * 可选参数
 * 类
 * getters
