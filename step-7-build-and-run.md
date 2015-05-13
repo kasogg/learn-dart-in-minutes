@@ -54,7 +54,7 @@ Built 6 files to "build".
 * 你可以选择 **Pub Build - Minified** 或者 **Pub Build - Debug**。 当构建一个最精简的 JavaScript 时，所有空格和无关的字符都会被移动，创建一个更紧凑的文件，但它的可读性更低。
 * *build* 目录包含了部署项目所需要的一切东西。
 
-## 查看 *build* 目录
+## 查看 build 目录
 
 在你工作的 *1-blankbadge* 目录下，展开 *build* 目录，然后展开 *web* 目录。
 
