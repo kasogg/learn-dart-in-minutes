@@ -2,7 +2,7 @@
 
 现在你已经写完你的 App 了，下面要做什么呢？以下是一些建议。
 
-## 部署一台服务器和你的 App
+##  搭建一台服务器并部署你的 App
 
 [server side code lab](https://www.dartlang.org/codelabs/server/) 允许你通过在 RESTful 的服务器上通过存储海盗名字来创建一个海盗船员。
 
