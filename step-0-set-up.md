@@ -16,7 +16,7 @@
 
 ## 获取示例代码
 
-用以下方式一直从 [one-hour-codelab GitHub repo](https://github.com/dart-lang/one-hour-codelab) 获取示例代码：
+用以下方式从 [one-hour-codelab GitHub repo](https://github.com/dart-lang/one-hour-codelab) 获取示例代码：
 
 * 下载 zip 文件，[one-hour-codelab-master.zip](https://github.com/dart-lang/one-hour-codelab/archive/master.zip)。解压缩 ZIP 文件，得到一个名为 *one-hour-codelab-master* 的文件夹。
 
