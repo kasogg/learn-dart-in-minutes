@@ -4,7 +4,7 @@
 
 ##  搭建一台服务器并部署你的 App
 
-[server side code lab](https://www.dartlang.org/codelabs/server/) 允许你通过在 RESTful 的服务器上通过存储海盗名字来创建一个海盗船员。
+[server side code lab](https://www.dartlang.org/codelabs/server/) 允许在 RESTful 的服务器上通过存储海盗名字来创建一个海盗船员。
 
 同样的，如果你对服务端编程感兴趣，可以查看 [Write HTTP Clients & Servers](https://www.dartlang.org/docs/tutorials/httpserver/) 教程。
 
